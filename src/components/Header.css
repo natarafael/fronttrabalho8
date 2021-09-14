@@ -1,0 +1,12 @@
+.header-container {
+  height: 100px;
+  width: 100%;
+  border-bottom: 2px solid black;
+  /* position: absolute;
+  background-color: cadetblue; */
+}
+
+.heading {
+  padding-top: 10px;
+  text-align: center;
+}
